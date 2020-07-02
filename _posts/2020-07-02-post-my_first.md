@@ -1,5 +1,5 @@
 ---
-title: "Post: 나의 첫 블로그, 첫 포스팅"
+title: "나의 첫 블로그, 첫 포스팅"
 categories:
   - Blog
 tags:
